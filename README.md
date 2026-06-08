@@ -2,7 +2,7 @@
 
 ### Vidyavardhaka College of Engineering (VVCE), Mysuru
 
-**Presenter:** Yeshwanth L M — Cloud Solutions Engineer/Architect
+**Presenter:** Yeshwanth L M — Data & AI Solutions Engineer/Architect
 
 ---
 
